@@ -385,8 +385,8 @@ const translations = {
     "Enter Email Address": "عنوان البريد الإلكتروني",
     "Enter Subject": "الموضوع",
 
-    "Form submitted successfully!": "تم ارسال الرساله بالنجاح!",
-    "Thank you for your submission": "شكرا لتواصلك معانا ",
+    "Form submitted successfully!": "تم إرسال الرسالة بنجاح!",
+    "Thank you for your submission": "شكرا لتواصلك معنا ",
     "Close": "اغلاق",
 
     // }
