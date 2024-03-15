@@ -226,7 +226,7 @@ const translations = {
   ar: {
 
 
-    "NextTech": "NextTech - للبرمجة & والإعلام",
+    "NextTech": "NextTech - للبرمجة والإعلام",
     'welcome-message': 'اهلا وسهلا',
     'toggle-language': 'EN',
     "Home": "الرئيسية",
